@@ -68,7 +68,7 @@ MonoBehaviour:
   triggerableByObject: 0
   triggerableByTaggedObject: 0
   objectTag: 
-  numberOfUses: -1
+  numberOfUses: 0
   drawTriggerArea: 1
   drawTriggerLines: 1
   triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
